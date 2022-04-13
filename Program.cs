@@ -123,7 +123,6 @@
     }
 
 
-    // БЛЯТЬ, НАДО БЫЛО КРУГ
     public class Rectangle : Figure
     {
         protected double width;
